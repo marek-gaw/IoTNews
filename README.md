@@ -13,6 +13,9 @@ If you look for other sources of links of this kind, please take a look:
 
 Here, I'll add links to materials (pages, documents, videos, podcasts...) related to Internet of Things.
 
+### 2022
+
+- [2022 week 02](./2022/2022W02.md)
 ### 2021
 
 - [2021 week 52](./2021/2021W52.md)
