@@ -15,6 +15,7 @@ Here, I'll add links to materials (pages, documents, videos, podcasts...) relate
 
 ### 2022
 
+- [2022 week 07](./2022/2022W07.md)
 - [2022 week 06](./2022/2022W06.md)
 - [2022 week 02](./2022/2022W02.md)
 ### 2021
